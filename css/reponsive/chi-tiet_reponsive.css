@@ -1,0 +1,316 @@
+@media only screen and (max-width: 1200px) and (min-width: 1000px){
+    section.container .content aside .aside-top .box .title span{
+        font-size: 14px;
+    }
+    section.container .content aside .huong-dan a{
+        font-size: 15px;
+    }
+    section.container .content aside .like .box .title span{
+        font-size: 15px;
+    }
+    section.content .buy-now .main-buy .row2 .btn-buy .number .mua{
+        margin-top: 1rem;
+    }
+    section.container .content aside .aside-top .box .title p{
+        font-size: 17px;
+    }
+    section.content .buy-now .main-buy .row2 .hotline p{
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width: 1000px) and (min-width: 880px){
+    #container section nav ul{
+        display: none;
+    }
+    .fa-align-justify{
+        display: block;
+    }
+    .icon-nav i{
+        font-size: 20px;
+    }
+    section.container .content{
+        display: flex;
+        flex-flow: column;    
+    }
+    section.container .content aside{
+        padding-top: 3rem;
+        width: 100%;
+    }
+    section.container .content aside .aside-top{
+        display: grid;
+        grid-template-columns: auto auto;
+        padding: 10px;
+        width: 100%;
+    }
+    section.container .content aside .huong-dan a{
+        margin: 0px;
+        font-size: 15px;
+    }
+    section.container .content aside .like .container{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    section.container .content aside .like .container .box{
+        width: 100%;
+    }
+    footer #top-footer .row .col{
+        width: 100%;
+    }
+    .app-btn{
+        display: flex;
+        flex-flow: column;
+    }
+    .app-btn .android, .app-btn .ios{
+        padding: 10px;
+    }
+    #copyrigt{
+        margin-top: 2rem;
+    }
+}
+@media only screen and (max-width: 880px) and (min-width: 768px){
+    section.content .buy-now .main-buy .row2 .btn-buy .number .mua{
+        margin-top: 1rem;
+    }
+    #container section nav ul{
+        display: none;
+    }
+    .fa-align-justify{
+        display: block;
+    }
+    .icon-nav i{
+        font-size: 20px;
+    }
+    section.container .content{
+        display: flex;
+        flex-flow: column;    
+    }
+    section.container .content aside{
+        padding-top: 3rem;
+        width: 100%;
+    }
+    section.container .content aside .aside-top{
+        display: grid;
+        grid-template-columns: auto auto;
+        padding: 10px;
+        width: 100%;
+    }
+    section.container .content aside .huong-dan a{
+        margin: 0px;
+        font-size: 15px;
+    }
+    section.container .content aside .like .container{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    section.container .content aside .like .container .box{
+        width: 100%;
+    }
+    section.content .buy-now .main-buy .row2 .hotline .bank img{
+        max-width: 35px;
+    }
+    footer #top-footer .row .col{
+        width: 100%;
+        padding: 0 5px;
+    }
+    .app-btn{
+        display: flex;
+        flex-flow: column;
+    }
+    .app-btn .android, .app-btn .ios{
+        padding: 10px;
+    }
+    #copyrigt{
+        margin-top: 2rem;
+    }
+    #copyrigt p{
+        font-size: 15px;
+    }   
+}
+@media only screen and (max-width: 768px) and (min-width: 650px){
+    #container section nav ul{
+        display: none;
+    }
+    .fa-align-justify{
+        display: block;
+    }
+    .icon-nav i{
+        font-size: 20px;
+    }
+    section.container .content{
+        display: flex;
+        flex-flow: column;    
+    }
+    section.container .content aside{
+        padding-top: 3rem;
+        width: 100%;
+    }
+    section.container .content aside .aside-top{
+        display: grid;
+        grid-template-columns: auto auto;
+        padding: 10px;
+        width: 100%;
+    }
+    section.container .content aside .huong-dan a{
+        margin: 0px;
+        font-size: 15px;
+    }
+    .container .content .intro table td{
+        font-size: 15px;
+        padding: 0 2px;
+    }
+    section.container .content aside .like .container{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    section.container .content aside .like .container .box{
+        width: 100%;
+    }
+    footer #top-footer .row .col{
+        width: 100%;
+        padding: 0 5px;
+    }
+    .app-btn{
+        display: flex;
+        flex-flow: column;
+    }
+    .app-btn .android, .app-btn .ios{
+        padding: 10px;
+    }
+    #copyrigt{
+        margin-top: 2rem;
+    }
+    #copyrigt p{
+        font-size: 15px;
+    }
+    section.content .buy-now .main-buy .row2 .hotline .bank img{
+        max-width: 35px;
+    }
+    section.content .buy-now .main-buy .row2 .btn-buy .number .mua{
+        margin-top: 1rem;
+    }
+    section.content .buy-now .main-buy .row2 .hotline p{
+        font-size: 14px;
+    }
+    section.content .buy-now .main-buy .row2 .hotline p span{
+        font-size: 15px;
+    }
+    section.container .content .product-all .row .col img{
+        width: 135px;
+        margin: 0px auto;
+    }
+    section.container{
+        max-width: 95%;
+    }
+    section.content .comment article{
+        font-size: 15px;
+    }
+    
+}
+@media only screen and (max-width: 650px) and (min-width: 320px){
+    #container section nav ul{
+        display: none;
+    }
+    .fa-align-justify{
+        display: block;
+    }
+    .icon-nav i{
+        font-size: 20px;
+    }
+    section.container .content{
+        display: flex;
+        flex-flow: column;    
+    }
+    section.container .content aside{
+        padding-top: 3rem;
+        width: 100%;
+    }
+    section.container .content aside .aside-top{
+        display: grid;
+        grid-template-columns: auto auto;
+        padding: 10px;
+        width: 100%;
+    }
+    section.container .content aside .huong-dan a{
+        margin: 0px;
+        font-size: 15px;
+    }
+    .container .content .intro table td{
+        font-size: 15px;
+        padding: 0 2px;
+    }
+    section.container .content aside .like .container{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    section.container .content aside .like .container .box{
+        width: 100%;
+    }
+    footer #top-footer .row .col{
+        width: 100%;
+        padding: 0 5px;
+    }
+    .app-btn{
+        display: flex;
+        flex-flow: column;
+    }
+    .app-btn .android, .app-btn .ios{
+        padding: 10px;
+    }
+    #copyrigt{
+        margin-top: 2rem;
+    }
+    #copyrigt p{
+        font-size: 15px;
+    }
+    section.container .content .product-all .row{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    section.container{
+        max-width: 98%;
+    }
+    section.content .buy-now .main-buy .row2 .btn-buy .number .mua{
+        margin-top: 2rem;
+    }
+    section.content .buy-now .main-buy .row2 .hotline{
+        display: none;
+    }
+    section.content .buy-now .main-buy .row2 .btn-buy{
+        border: none;
+    }
+    section.content .comment article{
+        font-size: 14px;
+    }
+    section.content .comment .title a{
+        font-size: 18px;
+    }
+    section.container .content .product-all h3{
+        font-size: 19px;
+    }
+    section.container .content .product-all .row .col img{
+        max-width: 220px;
+    }
+    section.container .content .product-all .row .col{
+        margin: 5px;
+    }
+    section.container .content aside .aside-top .box .title p{
+        font-size: 16px;
+    }
+    section.container .content aside .aside-top .box .title span{
+        font-size: 14px;
+    }
+    section.container .content aside .like .box .title span{
+        font-size: 13px;
+    }
+    footer #top-footer .row{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .app-btn .android, .app-btn .ios {
+        padding: 5px;
+        width: 67%;
+    }
+    tr.main td i{
+        display: none;
+    }
+}

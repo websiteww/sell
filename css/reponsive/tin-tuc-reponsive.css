@@ -1,0 +1,231 @@
+@media only screen and (max-width: 1200px) and (min-width: 1000px){
+    section.container .content .product-all .row1 .col img{
+        width: 50%;
+        height: auto;
+    }
+
+    section.product-all .container .row1 .col div.title p{
+        font-size: 15px;
+    }
+    section.product-all .container .row1 .col div.title a{
+        font-size: 20px;
+    }
+    section.product-all .container .row1 .col div.title p.tag{
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width: 1000px) and (min-width: 880px){
+
+    section.container .content .product-all .row1 .col img{
+        width: 50%;
+        height: auto;
+    }
+
+    section.product-all .container .row1 .col div.title p{
+        font-size: 15px;
+        padding-top: 1rem;
+    }
+    section.product-all .container .row1 .col div.title a{
+        font-size: 20px;
+    }
+    section.product-all .container .row1 .col div.title p.tag{
+        font-size: 14px;
+    }
+    nav.display-center{
+        display: none;
+    }
+    .icon-nav i{
+        display: block;
+        font-size: 20px;
+    }
+    section.container section.content{
+        display: block;
+        width: 100%;
+    }
+    section.container section#content{
+        display: block;
+    }
+
+    section.container section.content aside{
+        display: none;
+    }
+    footer #top-footer .row .col{
+        width: 100%;
+    }
+    .app-btn{
+        display: flex;
+        flex-flow: column;
+    }
+    .app-btn .android, .app-btn .ios{
+        padding: 10px;
+    }
+    footer #top-footer{
+        margin-bottom: 2rem;
+    }
+    #copyrigt p{
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 880px) and (min-width: 768px){
+    section.container .content .product-all .row1 .col img{
+        width: 50%;
+        height: auto;
+    }
+
+    section.product-all .container .row1 .col div.title p{
+        font-size: 15px;
+        padding-top: 1rem;
+    }
+    section.product-all .container .row1 .col div.title a{
+        font-size: 20px;
+    }
+    section.product-all .container .row1 .col div.title p.tag{
+        font-size: 14px;
+    }
+    nav.display-center{
+        display: none;
+    }
+    .icon-nav i{
+        display: block;
+        font-size: 20px;
+    }
+    section.container section.content{
+        display: block;
+        width: 100%;
+    }
+    section.container section#content{
+        display: block;
+    }
+
+    section.container section.content aside{
+        display: none;
+    }
+    footer #top-footer .row .col{
+        width: 100%;
+    }
+    .app-btn{
+        display: flex;
+        flex-flow: column;
+    }
+    .app-btn .android, .app-btn .ios{
+        padding: 10px;
+    }
+    footer #top-footer{
+        margin-bottom: 2rem;
+    }
+    #copyrigt p{
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 768px) and (min-width: 650px){
+    section.container .content .product-all .row1 .col img{
+        width: 50%;
+        height: auto;
+    }
+
+    section.product-all .container .row1 .col div.title p{
+        font-size: 15px;
+        padding-top: 1rem;
+    }
+    section.product-all .container .row1 .col div.title a{
+        font-size: 20px;
+    }
+    section.product-all .container .row1 .col div.title p.tag{
+        font-size: 14px;
+    }
+    nav.display-center{
+        display: none;
+    }
+    .icon-nav i{
+        display: block;
+        font-size: 20px;
+    }
+    section.container section.content{
+        display: block;
+        width: 100%;
+    }
+    section.container section#content{
+        display: block;
+    }
+
+    section.container section.content aside{
+        display: none;
+    }
+    footer #top-footer .row .col{
+        width: 100%;
+    }
+    .app-btn{
+        display: flex;
+        flex-flow: column;
+    }
+    .app-btn .android, .app-btn .ios{
+        padding: 10px;
+    }
+    footer #top-footer .row div.col{
+        width: 100%;
+        padding: 0 5px;
+    }
+    .app-btn{
+        display: flex;
+        flex-flow: column;
+    }
+    .app-btn .android, .app-btn .ios{
+        padding: 10px;
+    }
+}
+@media only screen and (max-width: 650px) and (min-width: 320px){
+    section.container .content .product-all div.row1 div.col>img{
+        width: 100%;
+        height: auto;
+        padding-right:0px;
+    }
+    section.product-all .container .row1 .col{
+        display: flex;
+        flex-flow: column;
+    }
+    section.product-all .container .row1 .col div.title{
+        box-shadow: 0px 0px 5px 0px grey;
+        padding: 5px;
+    }
+
+    section.product-all .container .row1 
+    .col div.title p{
+        font-size: 15px;
+        padding-top: 1rem;
+    }
+    section.product-all .container .row1 .col div.title a{
+        font-size: 20px;
+    }
+    section.product-all .container .row1 .col div.title p.tag{
+        font-size: 14px;
+    }
+    nav.display-center{
+        display: none;
+    }
+    .icon-nav i{
+        display: block;
+        font-size: 20px;
+    }
+    section.container section.content{
+        display: block;
+        width: 100%;
+    }
+    section.container section#content{
+        display: block;
+    }
+
+    section.container section.content aside{
+        display: none;
+    }
+    footer #top-footer div.row{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .app-btn .android, .app-btn .ios {
+        padding: 5px;
+        width: 67%;
+    }
+    tr.main td i{
+        display: none;
+    }
+}

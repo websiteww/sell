@@ -1,0 +1,121 @@
+.container .content .intro{
+    width: 100%;
+}
+.container .content .intro table{
+    width: 100%;
+    margin: 0px auto;
+    /* border: 1px solid #CCC; */
+    border-collapse: collapse;
+}
+.container .content .intro table td{
+    border: none;
+}
+.container .content .intro table .cart-top{
+    background-color: #e13475;
+    /* padding: 10px 0; */
+    
+}
+.container .content .intro table .cart-top th{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+}
+.container .content .intro table tr{
+    text-align: center;
+    line-height: 1.5;
+}
+tr.main td>img{
+    float: left;
+    max-width: 90px;
+    margin: 1px 0;
+}
+tr.main td.name{
+    color: black;
+    font-weight: 500;
+}
+tr.main td.red{
+    color: red;
+    font-weight: 500;
+}
+tr.main td.number{
+    font-weight: bold;
+}
+tr.main td.delete>i{
+    font-weight: bold;
+    color: black;
+}
+tr.main td i{
+    font-weight: bold;
+    color: #e13475;
+    padding: 0 5px;
+}
+tr.main td i:hover{
+    cursor: pointer;
+}
+.container .content .intro .total{
+    width: 100%;
+    margin: 0px auto;
+    padding-top: 2rem;
+}
+.container .content .intro .total .row{
+    display: flex;
+}
+.container .content .intro .total .row .col1{
+    margin-left: 0px;
+}
+.container .content .intro .total .row .col1 input{
+    padding: 10px 15px;
+    border: none;
+    background-color: #e13475;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+}
+.container .content .intro .total .row .col1 input:hover{
+    cursor: pointer;
+    background-color: #c01d5b;
+}
+.container .content .intro .total .row .col2{
+    margin-right: 0px;
+}
+.container .content .intro .total .row .col2 table td{
+    border: 1px solid rgb(224, 224, 224);
+    padding: 5px 30px;
+    font-weight: 500;
+
+}
+.container .content .intro .total .row .col2 table td.red{
+    color: rgb(175, 33, 33);
+}
+.container .content .intro .total .row .col2 .thanh-toan a{
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #e13475;
+    color: white;
+}
+.container .content .intro .total .row .col2 .thanh-toan a:hover{
+    cursor: pointer;
+    background-color: #c01d5b;
+}
+.container .content .intro .total .row .col2 .thanh-toan{
+    padding-top: 2rem;
+    float: right;
+    margin-right: 0px;
+}
+.fa-align-justify{
+    display: none;
+}
+header #top-header{
+    display: none;
+  }
+  ::-webkit-scrollbar{
+    width: 5px;
+    background-color: light-grey;
+  }
+  ::-webkit-scrollbar-thumb{
+    background-color: rgba(149, 255, 0, 0.979);
+    border-radius: 100px;
+  } 
